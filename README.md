@@ -1,6 +1,6 @@
 # ErekirBundles
-Gives descriptions for the new Erekir content.
+翻译并改进新星球埃里克尔上的建筑/单位/物品描述。
 
 # Purpose
-To add descriptions on Erekir content. Will be put on a PR once completed.
-P.S: PR still being clarified.
+等anuke把英文描述给merge了以后复制。
+欢迎PR。
