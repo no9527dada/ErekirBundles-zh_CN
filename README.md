@@ -1,4 +1,4 @@
-# ErekirBundles
+# Erekir Bundles
 翻译并改进新星球埃里克尔上的建筑/单位/物品描述。
 
 # Purpose
